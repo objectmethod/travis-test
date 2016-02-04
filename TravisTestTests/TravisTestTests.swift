@@ -35,7 +35,7 @@ class TravisTestTests: XCTestCase {
     
     func testFail() {
         let falseValue = false
-        XCTAssertTrue(falseValue, "i expect this to fail")
+        XCTAssertFalse(falseValue, "i expect this to fail")
     }
     
 }
