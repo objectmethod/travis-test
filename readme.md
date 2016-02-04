@@ -1,2 +1,2 @@
 ####Master branch build status: 
-![](https://travis-ci.org/objectmethod/TravisTest.svg?branch=master)
+[![Build Status](https://travis-ci.org/objectmethod/TravisTest.svg?branch=master)](https://travis-ci.org/objectmethod/TravisTest)
