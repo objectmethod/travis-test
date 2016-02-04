@@ -41,7 +41,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "EE5DEF50B659830AE8FF07AC"
+               BlueprintIdentifier = "5EA0DB261C63057300609169"
                BuildableName = "TravisTestUITests.xctest"
                BlueprintName = "TravisTestUITests"
                ReferencedContainer = "container:TravisTest.xcodeproj">
