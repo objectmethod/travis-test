@@ -28,19 +28,15 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		5EA0DB291C63057300609169 /* TravisTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TravisTestUITests.swift; sourceTree = "<group>"; };
-		5EA0DB2B1C63057300609169 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EE5DE0084EFD318EB363E026 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EE5DE0453519BC2A82FD4A04 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		EE5DE058262099DB2DA39603 /* TravisTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TravisTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EE5DE3552B63BEE1F601198D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		EE5DE5F5A163BF8BAB63851D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.info; path = Info.plist; sourceTree = "<group>"; };
 		EE5DE7434F808FFAC853EF5C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.info; path = Info.plist; sourceTree = "<group>"; };
 		EE5DE827C024B39E08CCE2D9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		EE5DE83DD8869B78236D64F0 /* TravisTestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TravisTestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EE5DE87CA559CA24F8844272 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.info; path = Info.plist; sourceTree = "<group>"; };
 		EE5DE9592B7C2F2C32FBB2DB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		EE5DEBE31F2F26AAA634AC8F /* TravisTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TravisTestUITests.swift; sourceTree = "<group>"; };
 		EE5DEF9454EF94B721596178 /* TravisTestTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TravisTestTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -62,23 +58,12 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		5EA0DB281C63057300609169 /* TravisTestUITests */ = {
-			isa = PBXGroup;
-			children = (
-				5EA0DB291C63057300609169 /* TravisTestUITests.swift */,
-				5EA0DB2B1C63057300609169 /* Info.plist */,
-			);
-			path = TravisTestUITests;
-			sourceTree = "<group>";
-		};
 		EE5DE7A18283BC2D988EF824 = {
 			isa = PBXGroup;
 			children = (
-				5EA0DB281C63057300609169 /* TravisTestUITests */,
 				EE5DEBCE077FC69587457541 /* Products */,
 				EE5DEA67F06DEFB9474A2E3D /* TravisTest */,
 				EE5DEBC3090D8C89F25259A3 /* TravisTestTests */,
-				EE5DEFF9B0C96A726B2A9BD6 /* TravisTestUITests */,
 			);
 			sourceTree = "<group>";
 		};
@@ -111,15 +96,6 @@
 				EE5DE83DD8869B78236D64F0 /* TravisTestTests.xctest */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		EE5DEFF9B0C96A726B2A9BD6 /* TravisTestUITests */ = {
-			isa = PBXGroup;
-			children = (
-				EE5DE5F5A163BF8BAB63851D /* Info.plist */,
-				EE5DEBE31F2F26AAA634AC8F /* TravisTestUITests.swift */,
-			);
-			path = TravisTestUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

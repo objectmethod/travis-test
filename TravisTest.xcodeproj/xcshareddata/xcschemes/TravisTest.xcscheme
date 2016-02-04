@@ -37,16 +37,6 @@
                ReferencedContainer = "container:TravisTest.xcodeproj">
             </BuildableReference>
          </TestableReference>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "5EA0DB261C63057300609169"
-               BuildableName = "TravisTestUITests.xctest"
-               BlueprintName = "TravisTestUITests"
-               ReferencedContainer = "container:TravisTest.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
